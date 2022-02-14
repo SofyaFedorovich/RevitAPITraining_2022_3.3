@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddins>
+	<Addin Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining\RevitAPIfirstapp.dll"</Assembly>
+		<AddInId>5E523598-59C1-4A0C-A302-7FE9E9438BEF</AddInId>
+		<FullClassName>RevitAPITraining_2022_3._3.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Еще одно приложение для Revit</Text>	
+	</Addin>
+</RevitAddins>
